@@ -1,2 +1,1 @@
-# polycopy
 # swift-computer-use
